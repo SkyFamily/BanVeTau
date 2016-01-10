@@ -275,7 +275,7 @@
             // 
             // btnCapNhatLichTrinh
             // 
-            this.btnCapNhatLichTrinh.Caption = "Lịch trình";
+            this.btnCapNhatLichTrinh.Caption = "Cập nhật lịch trình";
             this.btnCapNhatLichTrinh.Glyph = ((System.Drawing.Image)(resources.GetObject("btnCapNhatLichTrinh.Glyph")));
             this.btnCapNhatLichTrinh.Id = 20;
             this.btnCapNhatLichTrinh.LargeGlyph = ((System.Drawing.Image)(resources.GetObject("btnCapNhatLichTrinh.LargeGlyph")));
@@ -490,7 +490,7 @@
             this.ribbonStatusBar1.ItemLinks.Add(this.barStatusUser);
             this.ribbonStatusBar1.ItemLinks.Add(this.barListItem1);
             this.ribbonStatusBar1.ItemLinks.Add(this.barDateTime);
-            this.ribbonStatusBar1.Location = new System.Drawing.Point(0, 710);
+            this.ribbonStatusBar1.Location = new System.Drawing.Point(0, 706);
             this.ribbonStatusBar1.Name = "ribbonStatusBar1";
             this.ribbonStatusBar1.Ribbon = this.ribbonControl;
             this.ribbonStatusBar1.Size = new System.Drawing.Size(1196, 27);
@@ -533,7 +533,7 @@
             this.panelMain.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panelMain.Location = new System.Drawing.Point(0, 142);
             this.panelMain.Name = "panelMain";
-            this.panelMain.Size = new System.Drawing.Size(1196, 568);
+            this.panelMain.Size = new System.Drawing.Size(1196, 564);
             this.panelMain.TabIndex = 4;
             // 
             // labelControl1
@@ -556,7 +556,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1196, 737);
+            this.ClientSize = new System.Drawing.Size(1196, 733);
             this.Controls.Add(this.panelMain);
             this.Controls.Add(this.ribbonStatusBar1);
             this.Controls.Add(this.ribbonControl);
