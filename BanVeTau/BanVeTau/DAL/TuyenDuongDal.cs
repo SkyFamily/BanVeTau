@@ -49,7 +49,6 @@ namespace BanVeTau.DAL
                 }
             }
             return 0;
-
         }
 
         public static TuyenDuong LayTuyenDuong(int gaDauId, int gaCuoiId)
@@ -58,7 +57,6 @@ namespace BanVeTau.DAL
             {
                 return context.TuyenDuongs.SingleOrDefault(i => i.GaTauDauId==gaDauId && i.GaTauCuoiId==gaCuoiId);
             }
-
         }
 
         public static TuyenDuong LayTuyenDuong(int id)

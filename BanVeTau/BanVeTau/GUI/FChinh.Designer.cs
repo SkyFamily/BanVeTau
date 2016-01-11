@@ -216,7 +216,7 @@
             // 
             // btnLichTrinh
             // 
-            this.btnLichTrinh.Caption = "Lịch trình";
+            this.btnLichTrinh.Caption = "Tạo lịch trình";
             this.btnLichTrinh.Glyph = ((System.Drawing.Image)(resources.GetObject("btnLichTrinh.Glyph")));
             this.btnLichTrinh.Id = 13;
             this.btnLichTrinh.LargeGlyph = ((System.Drawing.Image)(resources.GetObject("btnLichTrinh.LargeGlyph")));
@@ -250,7 +250,7 @@
             // 
             // btnTaoLichTrinh
             // 
-            this.btnTaoLichTrinh.Caption = "Tạo lịch trình";
+            this.btnTaoLichTrinh.Caption = "Chi tiết lịch trình";
             this.btnTaoLichTrinh.Glyph = ((System.Drawing.Image)(resources.GetObject("btnTaoLichTrinh.Glyph")));
             this.btnTaoLichTrinh.Id = 17;
             this.btnTaoLichTrinh.LargeGlyph = ((System.Drawing.Image)(resources.GetObject("btnTaoLichTrinh.LargeGlyph")));

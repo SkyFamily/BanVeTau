@@ -76,7 +76,6 @@ namespace BanVeTau.GUI
                 {
                     MessageBox.Show(Resources.TaoDoiTuong + Resources.thatBai, Resources.MThatBai);
                 }
-
             }
         }
 
